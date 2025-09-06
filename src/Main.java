@@ -25,5 +25,6 @@ public class Main {
         }
         System.out.println(Arrays.toString(numeros));
         System.out.println(numeros.length);
+        System.out.println(System.nanoTime()/0.000000001);
     }
 }
